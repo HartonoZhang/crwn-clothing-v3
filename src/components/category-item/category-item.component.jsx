@@ -1,4 +1,4 @@
-import { CategoryContainer, BackgroundImage, CategoryBodyContainer } from "./category-item.styles";
+import { CategoryContainer, BackgroundImage, CategoryBodyContainer } from "./category-item.style";
 
 const CategoryItem = ({ category }) => {
   const { imageUrl, title } = category;
